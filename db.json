@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "slug": "seed-spreader-competition",
+      "title": "Seed spreader competition",
+      "category": "Investment",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem.",
+      "date": "Sunday, September 18, 1403, 4:00 PM",
+      "image": "1725527705562056.jpg",
+      "id": "dd8e"
+    },
+    {
+      "id": "d9e5",
+      "slug": "event-registration-page",
+      "title": "Event Registration Page",
+      "category": "Category",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum nesciunt ipsum debitis quas aliquid.",
+      "date": "2024-11-08",
+      "image": "event-registration-page.png"
+    },
+    {
+      "id": "f478",
+      "slug": "test-on-production",
+      "title": "Test on Production",
+      "category": "Test",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum nesciunt ipsum debitis quas aliquid.",
+      "date": "2024-11-09",
+      "image": "test-on-production.svg"
+    }
+  ]
+}
